@@ -1,0 +1,36 @@
+body {
+	color:#5C5C5C;
+	font-family:sans-serif;
+	font-style:normal;
+	font-size:20px;
+}
+a{
+	text-decoration:none;
+	color:#0088CC;
+}
+a:hover{
+	text-decoration:underline;
+}
+#wrapper{
+	margin:10px auto;
+	max-width:1000px;
+}
+#header {
+	text-align:center;
+}
+#browser{
+	margin:40px;
+}
+#browserInner{
+	width:530px;
+	margin:0 auto;
+}
+#browser img{
+	position:relative;
+	width:100px;
+}
+#browser img:hover{
+}
+#credit{
+	text-align:center;
+}
