@@ -9,6 +9,16 @@ body {
   text-align: center;
 }
 
+.jumbotron h1 {
+  font-size: 63px;
+  font-weight: 500;
+}
+
+.jumbotron p {
+  font-size: 21px;
+  font-weight: 200;
+}
+
 footer {
   text-align: center;
 }
